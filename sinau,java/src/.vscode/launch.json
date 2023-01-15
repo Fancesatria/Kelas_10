@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TgspercabFance",
+            "request": "launch",
+            "mainClass": "TgspercabFance",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Biodata_biasa",
+            "request": "launch",
+            "mainClass": "Biodata_biasa",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aritmatika1",
+            "request": "launch",
+            "mainClass": "Aritmatika1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array7",
+            "request": "launch",
+            "mainClass": "Array7",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutoOperator",
+            "request": "launch",
+            "mainClass": "AutoOperator",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operatorlogika1",
+            "request": "launch",
+            "mainClass": "Operatorlogika1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Percabangan",
+            "request": "launch",
+            "mainClass": "Percabangan",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Relasilogika1",
+            "request": "launch",
+            "mainClass": "Relasilogika1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse1kondisiP1",
+            "request": "launch",
+            "mainClass": "ifelse1kondisiP1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelse2kondisiP1",
+            "request": "launch",
+            "mainClass": "ifelse2kondisiP1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelsebykkondisiP1",
+            "request": "launch",
+            "mainClass": "ifelsebykkondisiP1",
+            "projectName": "src_9f80f43c"
+        },
+        {
+            "type": "java",
+            "name": "Launch kondisiswitchP1",
+            "request": "launch",
+            "mainClass": "kondisiswitchP1",
+            "projectName": "src_9f80f43c"
+        }
+    ]
+}

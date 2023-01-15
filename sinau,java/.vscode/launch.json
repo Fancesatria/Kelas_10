@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Operatorlogika1",
+            "request": "launch",
+            "mainClass": "Operatorlogika1",
+            "projectName": "sinau,java_e0906467"
+        },
+        {
+            "type": "java",
+            "name": "Launch Relasilogika1",
+            "request": "launch",
+            "mainClass": "Relasilogika1",
+            "projectName": "sinau,java_e0906467"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aritmatika1",
+            "request": "launch",
+            "mainClass": "Aritmatika1",
+            "projectName": "sinau,java_e0906467"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutoOperator",
+            "request": "launch",
+            "mainClass": "AutoOperator",
+            "projectName": "sinau,java_e0906467"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array7",
+            "request": "launch",
+            "mainClass": "Array7",
+            "projectName": "sinau,java_e0906467"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "sinau,java_e0906467"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "sinau,java_e0906467"
+        }
+    ]
+}
